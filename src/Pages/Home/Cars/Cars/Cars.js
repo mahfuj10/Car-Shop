@@ -1,3 +1,4 @@
+import { CircularProgress } from '@mui/material';
 import React, { useEffect, useState } from 'react';
 import { Container, Row } from 'react-bootstrap';
 import Car from '../Car/Car';
@@ -18,11 +19,12 @@ const Cars = () => {
             <h1 className="text-center">Featured Cars</h1>
             <p className="text-center  pb-5">A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.</p>
 
-            <Row >
-                {
-                    cars.map(car => car.condition === "true" && <Car car={car} />)
-                }
-            </Row>
+            {cars.length === 0 ? <CircularProgress /> :
+                <Row >
+                    {
+                        cars.map(car => car.condition === "true" && <Car car={car} />)
+                    }
+                </Row>}
         </Container>
     );
 };

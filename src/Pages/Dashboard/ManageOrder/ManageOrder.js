@@ -105,7 +105,7 @@ export default function ManageOrder() {
                                     <option value="Pending">{row.status}</option>
                                     <option value="Pending">Pending</option>
                                     <option value="Approved">Approved</option>
-                                    <option value="Done">Done</option>
+                                    <option value="Shipped">Shipped</option>
                                 </select>
                             </TableCell>
                         </TableRow>
