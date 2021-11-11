@@ -1,0 +1,23 @@
+[
+    {
+        "image": " https://i.ibb.co/wC51Hv8/Ellipse-90.png",
+        "name": "Oliva Cyra",
+        "description": "Collecting and making sense of user feedback is critical for businesses that wish to make improvements based on what their users need.",
+        "rating": "5",
+        "profession": "Ceo Craves"
+    },
+    {
+        "image": "https: //i.ibb.co/R7NYTQ0/Ellipse-91.png",
+        "name": "Aryan Ahmed",
+        "description": "Collecting and making sense of user feedback is critical for businesses that wish to make improvements based on what their users need.",
+        "rating": "4",
+        "profession": "Softare Engineer"
+    },
+    {
+        "image": "https: //i.ibb.co/80kdHkk/Ellipse-92.png",
+        "name": "Rayan Uddin",
+        "description": "Collecting and making sense of user feedback is critical for businesses that wish to make improvements based on what their users need.",
+        "rating": "5",
+        "profession": "Cloud Engineer"
+    }
+]

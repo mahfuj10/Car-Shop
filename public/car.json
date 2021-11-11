@@ -1,0 +1,165 @@
+[
+
+    
+
+
+
+
+
+
+
+    {
+        "image":"https://i.ibb.co/9Tkffgy/car-11.jpg",
+        "name":"Hyundai Santa",
+        "odo":"3600",
+        "transmition":"Manual",
+        "color":"silver",
+        "type":"Suv",
+        "price":"70000",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"false"
+    },
+    {
+        "image":" https://i.ibb.co/9Tkffgy/car-11.jpg",
+        "name":"Audi Q6 2019",
+        "odo":"2200",
+        "price":"78990",
+        "transmition":"Auto",
+        "color":"Blue",
+        "type":"Suv",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"true"
+    },
+    {
+        "image":"https://i.ibb.co/9Tkffgy/car-11.jpg",
+        "name":"2020 Ford Mustang",
+        "odo":"3450",
+        "transmition":"Manual",
+        "color":"Red",
+        "type":"Sport",
+        "price":"45600",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"true"
+    },
+    {
+        "image":"https://i.ibb.co/XygP3Nv/car-10.jpg",
+        "name":"BMW X6",
+        "odo":"1000",
+        "transmition":"Auto",
+        "color":"Black",
+        "price":"98000",
+        "type":"Sport",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"true"
+    },
+    {
+        "image":"https://i.ibb.co/vJwkhnJ/car-9.jpg",
+        "name":"BMW 7 Series",
+        "odo":"5500",
+        "transmition":"Auto",
+        "color":"SkyBlue",
+        "price":"67080",
+        "type":"Sedan",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"true"
+    },
+    {
+        "image":"https://i.ibb.co/c6c3gQk/car-8.jpg",
+        "name":"lamborghini Huracan",
+        "odo":"0000",
+        "transmition":"Auto",
+        "color":"Red",
+        "price":"22900",
+        "type":"Sport",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"true"
+    },
+    {
+        "image":"https://i.ibb.co/tQvLcWT/car-7-1.jpg",
+        "name":"lamborghini Aventador",
+        "odo":"0080",
+        "transmition":"Auto",
+        "color":"Beige",
+        "type":"Sport",
+        "price":"10300",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"true"
+    },
+    {
+        "image":"https://i.ibb.co/Pm9qqfK/car-6.jpg",
+        "name":"Honda CVR 2018",
+        "odo":"2347",
+        "transmition":"Auto",
+        "color":"Blue",
+        "type":"Suv",
+        "price":"59000",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"false"
+    },
+    {
+        "image":"https://i.ibb.co/vwZC92P/car-5.jpg",
+        "name":"Toyota Harriar",
+        "odo":"6000",
+        "transmition":"Auto",
+        "color":"Silver",
+        "type":"Suv",
+        "price":"66000",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"false"
+    },
+    {
+        "image":"https://i.ibb.co/8cFMrbV/car-4.jpg",
+        "name":"Ford Alphard",
+        "odo":"4000",
+        "transmition":"Auto",
+        "color":"Red",
+        "type":"Sedan",
+        "price":"45600",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"false"
+    },
+    {
+        "image":"https://i.ibb.co/ftg01VH/car-3.jpg",
+        "name":"Nissan GTR",
+        "odo":"1300",
+        "transmition":"Auto",
+        "color":"Silver",
+        "type":"Sport",
+        "price":"33500",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"false"
+    },
+    {
+        "image":"https://i.ibb.co/HBVY1KP/car-1.jpg",
+        "name":"Toyota Prius",
+        "odo":"1900",
+        "transmition":"Auto",
+        "color":"Blue",
+        "type":"Sedan",
+        "price":"33500",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"false"
+    },
+    {
+        "image":"https://i.ibb.co/myzLDrL/car-2.jpg",
+        "name":"Ford Mustang",
+        "odo":"1400",
+        "transmition":"Auto",
+        "color":"Red",
+        "type":"Sport",
+        "price":"225000",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"false"
+    },
+    {
+        "image":"https://i.ibb.co/dkpBhnw/small-car-3.jpg",
+        "name":"Mahindra City XPL",
+        "odo":"8000",
+        "transmition":"Auto",
+        "color":"White Pearl",
+        "type":"Sedan",
+        "price":"38000",
+        "description":"A black, late model Plymouth, four-door sedan Florida license number ABC 333; large dent on rear passenger door; and Florida Marlins decal on rear window.In the event of a moving vehicle, do your best to make note of as much information as possible, including the direction of travel. Be sure to include details you notice about the driver and passengers, as well.",
+        "condition":"false"
+    }
+]
