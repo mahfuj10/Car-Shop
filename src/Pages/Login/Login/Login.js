@@ -7,7 +7,7 @@ import UseFirebase from '../../../Hooks/UseFirebase';
 
 const Login = () => {
     const [loginData, setLoginData] = useState({});
-    const { user, loginUser, signInWithGoogle, error } = UseFirebase();
+    const { user, loginUser, error } = UseFirebase();
 
     const location = useLocation();
     const history = useHistory();
@@ -24,15 +24,13 @@ const Login = () => {
         e.preventDefault();
     }
 
-    const handleGoogleSignIn = () => {
-        signInWithGoogle(location, history)
-    }
+
     return (
         <>
             <Navigation />
             <Container>
                 <Grid container spacing={2}>
-                    <Grid item sx={{ mt: 8 }} xs={12} md={6}>
+                    <Grid item sx={{ mt: 8 }} xs={12} md={12}>
                         <Typography variant="body1" gutterBottom>Login</Typography>
                         <form onSubmit={handleLoginSubmit}>
                             <TextField
@@ -61,12 +59,8 @@ const Login = () => {
                             {user?.email && <Alert severity="success">Login successfully!</Alert>}
                             {error && <Alert severity="error">{error}</Alert>}
                         </form>
-                        <p>------------------------</p>
-                        <Button onClick={handleGoogleSignIn} variant="contained">Google Sign In</Button>
                     </Grid>
-                    <Grid item xs={12} md={6}>
-                        {/* <img style={{ width: '100%' }} src={login} alt="" /> */}
-                    </Grid>
+
                 </Grid>
             </Container>
         </>

@@ -28,10 +28,10 @@ const Navigation = () => {
             <Typography style={navItem} variant="body">{user?.displayName}</Typography>
             <NavLink style={navItem} to="/home">Home</NavLink>
             <NavLink style={navItem} to="/login">Login</NavLink>
-            {user.email && <Box>
-              <NavLink style={navItem} to="/collection">Collection</NavLink>
-              <NavLink style={navItem} to="/dashboard">Dashboard</NavLink>
-            </Box>}
+
+            <NavLink style={navItem} to="/collection">Collection</NavLink>
+            <NavLink style={navItem} to="/dashboard">Dashboard</NavLink>
+
 
           </Nav>
         </Navbar.Collapse>
